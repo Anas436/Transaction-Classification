@@ -1,5 +1,8 @@
 # Task: AI-Based Transaction Classification System
 
+## Dataset
+- __Online Sales Dataset - Popular Marketplace Data__ [here](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
+
 ## Objective:
 Develop an AI-driven transaction classification system that automatically categorizes financial transactions into predefined groups (e.g., utilities, groceries, healthcare, etc.) using Natural Language Processing (NLP) and Machine Learning (ML).
 
