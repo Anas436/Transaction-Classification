@@ -24,7 +24,9 @@ Example transaction descriptions:
 ## Expected Output Example
 
 __Input:__ "Uber Ride Payment - $20"
+
 __Predicted Category:__ Transport
 
 __Input:__ "XYZ Pharmacy - $30"
+
 __Predicted Category:__ Healthcare
